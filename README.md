@@ -2,7 +2,7 @@
 
 This repository was made to have a dataset of all existing, and extinct, species within the aves class (birds). Currently there are 10,955 species within the dataset, each species is divided into their genus, family, and order taxonomy - everything is written with their scientific names.
 
-It should be noted that an effort was made to minimize errors, and although the most obvious errors (from an inexpert) has been removed, there may still exist certain errors.
+It should be noted that an effort was made to minimize errors, and although the most obvious errors (from an inexpert's pov) has been removed, there may still exist certain errors.
 
 Feel free to use the data for any purpose you may find relevant - although using it for the greater good is strongly preferred :)
 
