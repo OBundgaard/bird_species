@@ -8,6 +8,6 @@ Feel free to use the data for any purpose you may find relevant - although using
 
 If you have any contributions, whether it is modifications or additions, you should be able to make changes (and await my approval) but please include sources if you do so.
 
-*NOTE: there's a lot of data, beware of potential slow loading speed*
-[View table of contents](https://github.com/OBundgaard/bird_species/blob/main/table_of_contents.md)
+*NOTE: there's a lot of data, beware of potential slow loading speed*<br>
+[View table of contents](https://github.com/OBundgaard/bird_species/blob/main/table_of_contents.md)<br>
 [View data itself - JSON](https://github.com/OBundgaard/bird_species/blob/main/aves.json)
